@@ -2,8 +2,8 @@ $(function() {
 
     $('.slider__items').slick({
         arrows: false,
-        slidesToShow: 4,
-        slidesToScroll: 4,
+        slidesToShow: 1,
+        slidesToScroll: 1,
         dots: true
     });
 });
